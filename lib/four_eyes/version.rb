@@ -1,3 +1,3 @@
 module FourEyes
-  VERSION = "3.0.0"
+  VERSION = "2.2.0"
 end
